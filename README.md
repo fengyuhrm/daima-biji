@@ -1,0 +1,2 @@
+# daima-biji
+trying out linux in my spare time
